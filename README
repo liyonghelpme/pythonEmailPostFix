@@ -1,0 +1,5 @@
+安装postfix 服务器 25 端口监听
+Thunderbird 保存draft 为 eml 格式包含所有的邮件数据
+python email 模块 和 smtplib 模块处理邮件
+发送给目标
+
